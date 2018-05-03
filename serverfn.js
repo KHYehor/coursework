@@ -8,4 +8,3 @@ module.exports = (data, adress, name) => {
 		else console.log(`${name}\n${data}`);
 	});
 }
-
